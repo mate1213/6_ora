@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace _1_feladat.Properties
+namespace Operator_Overwrite.Properties
 {
 
 

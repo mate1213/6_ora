@@ -1,4 +1,4 @@
-﻿namespace _1_feladat
+﻿namespace Operator_Overwrite
 {
     partial class Form1
     {

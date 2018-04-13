@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _1_feladat
+namespace SzovSzerk
 {
     static class Program
     {
